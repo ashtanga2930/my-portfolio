@@ -88,7 +88,7 @@ export default function HomePage() {
             }}
           />
         ))}
-      </div>
+      </div> 
 
       {/* Cursor follower */}
       <motion.div
